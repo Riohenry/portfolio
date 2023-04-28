@@ -14,7 +14,7 @@ function Nav() {
       <div className="middle nav__wrapper">
         <div className="nav__header">
           <Link to="/">
-            <h1 style={{color: '#002D5B'}}>Isiagi Geofrey</h1>
+            <h1 style={{color: '#002D5B'}}>Lwanga Samson</h1>
           </Link>
         </div>
         <div className={`nav__ul ${open ? "active" : ""}`}>

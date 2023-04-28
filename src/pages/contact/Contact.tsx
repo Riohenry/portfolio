@@ -54,7 +54,7 @@ function Contact({}: Props) {
         <div className="contact__grid">
           <div className="contact__item">
             <ImMobile2 className="contact__icon" />
-            <h3 className="contact__detail">+256777963365</h3>
+            <h3 className="contact__detail">+256741811908</h3>
             <p className="contact__lo">Monday - Friday from 7am - 5pm</p>
           </div>
           <div className="contact__item">
@@ -64,7 +64,7 @@ function Contact({}: Props) {
           </div>
           <div className="contact__item">
             <HiOutlineMail className="contact__icon" />
-            <h3 className="contact__detail">isiagigeofrey0@gmail.com</h3>
+            <h3 className="contact__detail">samsonlwanga2@gmail.com</h3>
             <p className="contact__lo">Contact me every time!</p>
           </div>
         </div>

@@ -14,10 +14,10 @@ function Footer({}: Props) {
           <Link to='/portfolio'><p>Portfolio</p></Link>
         </div>
         <div className="logo">
-          <h1 style={{ fontWeight:"500" }}>Geofrey Isiagi</h1>
+          <h1 style={{ fontWeight:"500" }}>Lwanga Samson</h1>
         </div>
         <div className="last">
-          <h2 style={{ marginBottom: "1rem",fontWeight:"500" }}>isiagigeofrey0@gmail.com</h2>
+          <h2 style={{ marginBottom: "1rem",fontWeight:"500" }}>samsonlwanga2@gmail.com</h2>
           <DownloadButton name="Download CV" to="/files/Geofrey_Isiagi_Resume.pdf"/>
         </div>
       </div>
