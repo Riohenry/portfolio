@@ -22,7 +22,7 @@ function Footer({}: Props) {
         </div>
       </div>
       <div className="footer__last">
-        <p>&copy; Geofrey Isiagi 2023</p>
+        <p>&copy; </p>
       </div>
     </div>
   );
