@@ -1,5 +1,5 @@
 import DownloadButton from "../button/DownloadButton";
-import aboutImage from "../../assets/samson.jpg";
+import aboutImage from "../../assets/best.jpg";
 import { AnimationOnScroll } from "react-animation-on-scroll";
 
 import "./about.css";
