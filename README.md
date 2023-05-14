@@ -1,4 +1,4 @@
-# Geofrey Isiagi portfolio__website
+# Samson Lwanga portfolio__website
 This is a personal portfolio website developed with intentions to demonstarte my skills in __software Development__. The website was developed with *ReactJS* and *CSS* for styling.
 - [View Live Site](https://portfolio-website-isiagi.vercel.app/) 
 > ## Installation
