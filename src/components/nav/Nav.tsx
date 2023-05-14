@@ -26,11 +26,11 @@ function Nav() {
               <li>About</li>
             </Link>
             <Link to="/portfolio">
-              <li>Portfolio</li>
+              <li>Projects</li>
             </Link>
           </ul>
         </div>
-        <Button name="Hire Me" to="/contact" />
+        <Button name="Contact Me" to="/contact" />
         <div className="nav__icons">
           {open ? (
             <ImCancelCircle

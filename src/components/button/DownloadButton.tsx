@@ -9,9 +9,9 @@ type Props = {
 function Button({ name, to }: Props) {
   return (
     <div>
-      <Link to={`${to}`} target="_blank" download>
+      {/* <Link to={`${to}`} target="_blank" download>
+      </Link> */}
         <button className="button__btn">{name}</button>
-      </Link>
     </div>
   );
 }
